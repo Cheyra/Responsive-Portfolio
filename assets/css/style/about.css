@@ -84,7 +84,7 @@
      top: -60px
    }
    #bruce {font-family: 'Cedarville Cursive', cursive;
-   color:rgb(54, 100, 131)}
+   color:#5ba}
    
    #box {
    background-color: whitesmoke !important; 
@@ -114,7 +114,7 @@
    height:50px;
    width: 100%;
    position:absolute;
-   bottom: -200px;
+   bottom: -850px;
    border-top: 10px;
    border-bottom: 0px;
    border-left: 0px;

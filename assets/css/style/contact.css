@@ -125,8 +125,9 @@ left: 450px;
 top: 125px;
 width:593px;
 padding: 20px;
-height: 400px;
-margin-top: 30px
+height: 300px;
+margin-top: 30px;
+    margin-bottom: 0px
 
 }
 
@@ -139,8 +140,9 @@ padding-right: 10px }
 #bottom { margin: 0;
 height:50px;
 width: 100%;
-position:absolute;
+position:fixed;
 bottom: 0px;
+left: 0px;
 border-top: 10px;
 border-bottom: 0px;
 border-left: 0px;

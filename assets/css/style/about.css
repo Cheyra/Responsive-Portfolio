@@ -1,5 +1,5 @@
 
- body {background-image: url(../../images/circles-and-roundabouts.png);
+ body {background-image: url(../../images/circles-and-roundabouts.png.png);
     margin:0px;
    width:1186px;
    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}  
@@ -113,8 +113,9 @@
    #bottom { margin: 0;
    height:50px;
    width: 100%;
-   position:absolute;
-   bottom: -850px;
+   position:fixed;
+   bottom: 0px;
+   left: 0px;
    border-top: 10px;
    border-bottom: 0px;
    border-left: 0px;

@@ -140,8 +140,9 @@ padding-right: 10px }
 #bottom { margin: 0;
 height:50px;
 width: 100%;
-position:absolute;
-bottom: 850px;
+position:fixed;
+bottom: 0px;
+left: 0px;
 border-top: 10px;
 border-bottom: 0px;
 border-left: 0px;

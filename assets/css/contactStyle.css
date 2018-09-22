@@ -1,0 +1,133 @@
+body {background-color: rgb(181, 191, 192);
+    margin:0px} 
+    
+    #top{ width: 100%;
+    position:relative;
+    top: 0px;
+    left: 0px; 
+    right: 0px; 
+    height: 100px;
+    background-color:whitesmoke !important; 
+    border-bottom:2px;
+    border-top:0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: grey;
+    border-style: solid;
+    margin: 0px;
+    }
+    
+    h1{background-color:#5ba;
+    color: white;
+    position:relative;
+    top: -5px;
+    bottom:130px;
+    height: 105px;
+    left: 250px;
+    float:left;
+    margin:0px
+    }
+    
+    a{font-size: 20px;
+    color: rgb(146, 149, 151);
+    text-decoration: none;
+    border-right:1px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-color:rgb(213, 219, 219);
+    border-style: solid;
+    padding: 10px
+    }
+
+    a:link {color: blue}
+
+    a:visited {color: purple}
+
+    a:hover {color: rgb(237, 148, 7);}
+    
+      
+    h2 {color:#5ba;
+   font-size: 30px}
+    
+    #aOne{float: right;
+    position:absolute;
+    top:35px;
+    margin-left: 600px
+      }
+    
+    #aTwo{float: right;
+    position:absolute;
+    top: 35px;
+    margin-left:700px
+    }
+    
+    #aThree{float:right;
+    position:absolute;
+    top:35px;
+    margin-left: 800px
+    }
+    hr{-webkit-text-stroke-color: lightgray;
+    text-align: left}
+
+    form {color:gray}
+    h3 {color:gray}
+
+    #button{color: white;
+    background-color:#5ba;
+    width: 15%;
+    height: 40px;
+    text-align: center}
+
+    #name {
+       
+        width:100%;
+    height:25px;
+    padding-bottom:5px;
+    color:gray}
+
+    #email{width:100%;
+    height:25px;
+    padding-bottom: 15px;
+    color:gray;}
+
+    #comment{width:100%;
+    height:170px}
+
+    #input {font-size: 20px;
+    padding-bottom:5px;
+}
+    
+    #box {
+    background-color: whitesmoke !important; 
+    border:2px;
+    border-color:  dimgray;
+    border-style: solid;
+    position:absolute;
+    left: 250px;
+    top: 125px;
+    width:960px;
+    padding: 20px;
+    height: 500px
+    }
+    
+    
+    
+    img {width: 200px;
+    float:left;
+    padding-right: 10px }
+    
+    #bottom { margin: 0;
+    height:50px;
+    width: 100%;
+    position:absolute;
+    bottom: 0px;
+    border-top: 10px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: #5ba;
+    border-style: solid;
+    background-color:rgb(86, 86, 88) !important;
+    clear: both;}
+    

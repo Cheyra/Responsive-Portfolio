@@ -1,0 +1,189 @@
+    
+    body {background-image: url(../circles-and-roundabouts.png.png);
+        margin:0px;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}  
+        
+        #top{ width: 100%;
+        position:relative;
+        top: 0px;
+        left: 0px; 
+        right: 0px; 
+        height: 100px;
+        background-color:whitesmoke !important; 
+        border-bottom:2px;
+        border-top:0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color: grey;
+        border-style: solid;
+        margin: 0px;
+        }
+        
+        h1{background-color:#5ba;
+        color: white;
+        position:relative;
+        top: -5px;
+        bottom:130px;
+        height: 105px;
+        left: 370px;
+        float:left;
+        margin:0px;
+        font-family: Georgia, 'Times New Roman', Times, serif
+        }
+        
+        a{text-decoration: none;}
+    
+        .navBar{font-size: 20px;
+        color: rgb(146, 149, 151);
+        text-decoration: none;
+        border-right:1px;
+        border-top: 0px;
+        border-bottom: 0px;
+        border-left: 0px;
+        border-color:rgb(213, 219, 219);
+        border-style: solid;
+        padding: 10px    
+        }
+        a:link {color: blue}
+    
+        a:visited {color: purple}
+    
+        a:hover {color: rgb(237, 148, 7);}
+           
+        h2 {color:#5ba;
+          font-family: Georgia, 'Times New Roman', Times, serif}
+        
+        #aOne{float: right;
+        position:absolute;
+        top:35px;
+        margin-left: 580px
+          }
+        
+        #aTwo{float: right;
+        position:absolute;
+        top: 35px;
+        margin-left:680px
+        }
+        
+        #aThree{float:right;
+        position:absolute;
+        top:35px;
+        margin-left: 780px
+        }
+        
+        hr{-webkit-text-stroke-color: lightgray}
+           
+        #box {
+        background-color: whitesmoke !important; 
+        border:2px;
+        border-color:  dimgray;
+        border-style: solid;
+        position:absolute;
+        left: 370px;
+        top: 125px;
+        width:712px;
+        padding: 20px;
+        height: 1000px
+        }
+        
+        #imgOne {width: 250px;
+        height: 250px;
+        float:left;
+        padding: 25px;
+      position: absolute;
+    left:80px }
+    
+        #imageLinkOne {Position: absolute;
+        width: 210px;
+        left:105px;
+        top: 300px;
+        padding: 20px;
+        text-align: center;
+        background-color: #5ba;
+        color: white}
+    
+        #imageLinkTwo {Position: absolute;
+        width: 210px;
+        left:405px;
+        top: 300px;
+        padding: 20px;
+        background-color: #5ba;
+        text-align: center;
+        color: white}
+     
+        #imageLinkThree {Position: absolute;
+        width: 210px;
+        left:105px;
+        top: 600px;
+        text-align: center;
+        padding: 20px;
+        background-color: #5ba;
+        color: white;
+        clear:both}
+        #imageLinkFour {Position: absolute;
+        width: 210px;
+        left:405px;
+        top: 600px;
+        text-align: center;
+        padding: 20px;
+        background-color: #5ba;
+        color: white}
+     
+        #imageLinkFive {Position: absolute;
+        width: 210px;
+        left:105px;
+        top: 900px;
+        text-align: center;
+        padding: 20px;
+        clear:both;
+        background-color: #5ba;
+        color: white}
+            
+        #imgTwo {width: 250px;
+        height: 250px;
+        float:left;
+        padding: 25px;
+      position: absolute;
+    left:380px }
+      
+        #imgThree {width: 250px;
+        height: 250px;
+        float:left;
+        padding: 25px;
+        position: absolute;
+        left:80px;
+        top: 400px; 
+        clear:both}
+      
+        #imgFour {width: 250px;
+        height: 250px;
+        float:left;
+        padding: 25px;
+        position: absolute;
+        left:380px;
+      top:400px  }
+      
+        #imgFive {width: 250px;
+        height:250px;
+        float:left;
+        padding: 25px;
+        clear:both;
+        position: absolute;
+        left:80px;
+        top:700px; 
+        overflow: auto}
+    
+        #bottom { margin: 0;
+        height:50px;
+        width: 100%;
+        position:relative;
+        bottom: -1100px;
+        border-top: 10px;
+        border-bottom: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color: #5ba;
+        border-style: solid;
+        background-color:rgb(86, 86, 88) !important;
+        clear: both;}
+        

@@ -169,7 +169,7 @@ clear: both;}
    
 left: 0px;
 top: 100px;
-width: 100%;}
+width: 100% !important;}
 h1{float: none;
 left:50px;
 padding-left:0px}

@@ -55,19 +55,19 @@
      font-family: Georgia, 'Times New Roman', Times, serif
    }
    
-   #aOne{float: right;
+   .aOne{float: right;
    position:absolute;
    top:35px;
    margin-left: 600px
      }
    
-   #aTwo{float: right;
+   .aTwo{float: right;
    position:absolute;
    top: 35px;
    margin-left:700px
    }
    
-   #aThree{float:right;
+   .aThree{float:right;
    position:absolute;
    top:35px;
    margin-left: 800px

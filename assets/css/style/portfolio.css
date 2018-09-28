@@ -18,7 +18,11 @@
         border-style: solid;
         margin: 0px;
         }
-        
+        .navSmall {
+            position: relative;
+  top: 50px;
+  z-index: 100;
+   display:none}
         h1{background-color:#5ba;
         color: white;
         position:relative;
@@ -53,19 +57,19 @@
         h2 {color:#5ba;
           font-family: Georgia, 'Times New Roman', Times, serif}
         
-        #aOne{float: right;
+        .aOne{float: right;
         position:absolute;
         top:35px;
         margin-left: 580px
           }
         
-        #aTwo{float: right;
+        .aTwo{float: right;
         position:absolute;
         top: 35px;
         margin-left:680px
         }
         
-        #aThree{float:right;
+        .aThree{float:right;
         position:absolute;
         top:35px;
         margin-left: 780px

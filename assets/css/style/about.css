@@ -3,7 +3,9 @@
     margin:0px;
    width:1186px;
    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}  
-   
+
+.small{display:none}
+
    #top{ width: 100%;
    position:absolute;
    top: 0px;

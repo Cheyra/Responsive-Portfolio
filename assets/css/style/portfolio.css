@@ -231,7 +231,15 @@ height:auto}
   bottom:0px}
   
   .nav {display:none} 
-
+.aOne{
+  margin-left: 0
+    }
+.aTwo{
+  margin-left: 0
+    }
+.aThree{
+  margin-left: 0
+    }
  div.navSmall {display:block;
  text-align: center 
 

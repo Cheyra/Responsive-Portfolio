@@ -61,7 +61,7 @@
         .aOne{float: right;
         position:relative;
         top:35px;
-        margin-right: 500px;
+        left: 0px;
             padding: 10px;
           
           }
@@ -69,14 +69,14 @@
         .aTwo{float: right;
         position:relative;
         top: 35px;
-        margin-left:0px;
+        left:0px;
             padding:10px;
         }
         
         .aThree{float:right;
         position:relative;
         top:35px;
-        margin-left: 0px;
+        left: 0px;
             padding: 10px;
         }
         

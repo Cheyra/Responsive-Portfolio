@@ -95,10 +95,10 @@
         height: 250px;
         float:left;
         padding: 25px;
-      position: absolute;
+      position: relative;
     left:80px }
     
-        #imageLinkOne {Position: absolute;
+        #imageLinkOne {Position: relative;
         width: 210px;
         left:105px;
         top: 300px;

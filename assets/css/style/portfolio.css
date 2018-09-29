@@ -108,7 +108,7 @@
     
         #imageLinkOne {Position: relative;
         width: 210px;
-       left: -500px;
+       left: -250px;
         top: 250px;
         padding: 0px;
         text-align: center;
@@ -117,7 +117,7 @@
     
         #imageLinkTwo {Position: relative;
         width: 110px;
-        left: -130px;
+        left: 10px;
         top: 250px;
         padding: 0px;
         background-color: #5ba;
@@ -203,7 +203,7 @@ top:10px}
         background-color:rgb(86, 86, 88) !important;
         clear: both;}
 
-@media screen and (max-width:1100px){
+@media screen and (max-width:980px){
   #top { background-color:#5ba!important;}
       #imageLinkOne {
          left:-500px;
@@ -241,7 +241,7 @@ padding-left:0px}
   top:-50px
       
     } 
-body{width:1100}
+
 }
 @media screen and (max-width:768px) {
  body {height:auto;

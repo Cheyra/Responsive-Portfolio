@@ -100,7 +100,7 @@
     
         #imageLinkOne {Position: relative;
         width: 210px;
-       right: 250px;
+       right: 270px;
         top: 250px;
         padding: 20px;
         text-align: center;
@@ -109,7 +109,7 @@
     
         #imageLinkTwo {Position: relative;
         width: 110px;
-        right:100px;
+        right:120px;
         top: 250px;
         padding: 20px;
         background-color: #5ba;
@@ -125,10 +125,11 @@
         background-color: #5ba;
         color: white;
         clear:both}
+
         #imageLinkFour {Position: relative;
         width: 210px;
-        right: 100px;
-        top: 530px;
+        right: 120px;
+        top: 510px;
         text-align: center;
         padding: 20px;
         background-color: #5ba;

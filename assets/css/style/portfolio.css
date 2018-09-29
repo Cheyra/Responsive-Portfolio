@@ -222,7 +222,7 @@ body{width:980}
 @media screen and (max-width:768px) {
  body {height:auto;
 width:auto; margin: 0px, 2px, 2px, 10px;}
-#box {width:auto;
+#box {width:100% !important;
 top:200px;
 height:auto}
   h1{width:100% !important;
@@ -250,11 +250,12 @@ height:auto}
 
 
 }
-    #imgOne {float:none;
+    #imgOne {clear:both;
+        float:none !important;
          text-align:center
 }
     
-    #imgTwo {float:none;
+    #imgTwo {clear:both; float:none !important;
          text-align:center
 }
     

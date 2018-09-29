@@ -61,7 +61,7 @@
         .aOne{float: right;
         position:relative;
         top:35px;
-        left: 100px;
+        right: 100px;
             padding: 10px;
           
           }
@@ -69,14 +69,14 @@
         .aTwo{float: right;
         position:relative;
         top: 35px;
-        left:100px;
+        right:100px;
             padding:10px;
         }
         
         .aThree{float:right;
         position:relative;
         top:35px;
-        left: 100px;
+        right: 100px;
             padding: 10px;
             z-index:200
         }
@@ -107,7 +107,7 @@
         width: 210px;
        right: 270px;
         top: 250px;
-        padding: 20px;
+        padding: 0px;
         text-align: center;
         background-color: #5ba;
         color: white}
@@ -116,7 +116,7 @@
         width: 110px;
         right:80px;
         top: 250px;
-        padding: 20px;
+        padding: 0px;
         background-color: #5ba;
         text-align: center;
         color: white}
@@ -126,7 +126,7 @@
         right: 500px;
         top: 530px;
         text-align: center;
-        padding: 20px;
+        padding: 0px;
         background-color: #5ba;
         color: white;
         clear:both}
@@ -136,7 +136,7 @@
         right: 120px;
         top: 510px;
         text-align: center;
-        padding: 20px;
+        padding: 0px;
         background-color: #5ba;
         color: white}
      
@@ -145,7 +145,7 @@
         right: 500px;
         top: 800px;
         text-align: center;
-        padding: 20px;
+        padding: 0px;
         clear:both;
         background-color: #5ba;
         color: white}

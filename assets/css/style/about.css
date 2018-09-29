@@ -169,13 +169,16 @@ height:auto}
   
   .nav {display:none} 
  .aOne{
-  margin-left: 0px
+  margin-left: 0px;
+  padding:10px
     }
 .aTwo{
-  margin-left: 0px
+  margin-left: 0px;
+ padding:10px
     }
 .aThree{
-  margin-left: 0px
+  margin-left: 0px;
+   padding: 10px
     }
 
  div.navSmall {display:block;

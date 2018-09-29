@@ -249,13 +249,13 @@ height:100%}
   
   .nav {display:none} 
 .aOne{
- left:10px
+ top:40px
     }
 .aTwo{
-  left:100px
+ top:40px
     }
 .aThree{
-left:200px
+top:40px
     }
  div.navSmall {display:block;
 /*      div.smallPort {display: block;} */

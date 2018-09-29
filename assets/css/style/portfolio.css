@@ -59,21 +59,21 @@
           font-family: Georgia, 'Times New Roman', Times, serif}
         
         .aOne{float: right;
-        position:absolute;
+        position:relative;
         top:35px;
-        margin-left: 580px
+        margin-left: 380px
           }
         
         .aTwo{float: right;
-        position:absolute;
+        position:relative;
         top: 35px;
-        margin-left:680px
+        margin-left:480px
         }
         
         .aThree{float:right;
-        position:absolute;
+        position:relative;
         top:35px;
-        margin-left: 780px
+        margin-left: 580px
         }
         
         hr{-webkit-text-stroke-color: lightgray}

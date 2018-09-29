@@ -215,14 +215,11 @@ height:auto}
     padding:10px
     }
  div.navSmall {display:inline-block;
- text-align: center ;
+
     
 
 }
- div.navSmall {display:block;
- text-align: center 
 
-}
 }
 @media screen and (max-width:640px){
  

@@ -301,20 +301,20 @@ top:40px
          text-align:center
 }
     #imageLinkOne {
-    right: 250px;
-    top: 0px;
+    
+    top: -100px;
     z-index: 0px}
-    #imageLinkTwo {right: 150px;
+    #imageLinkTwo {
+    top:-100px;
+    z-index:0px}
+    #imageLinkThree {
+    top: -100px;
+    z-index:0px}
+    #imageLinkFour {
     top:20px;
-    z-index:0px}
-    #imageLinkThree {right: 250px;
-    top: 0px;
-    z-index:0px}
-    #imageLinkFour {right:150px;
-    top:20px;
-    z-index:0px}
-    #imageLinkFive {right:250px;
-    top:0px;
+    z-index:-100px}
+    #imageLinkFive {
+    top:-100px;
     z-index:0px;}
     
     

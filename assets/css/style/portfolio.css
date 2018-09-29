@@ -214,8 +214,7 @@ width: 100%;
 h1{float: none !important;
 left:50px;
 padding-left:0px}
-a{ float:none;
-}
+/* 
 .aOne{
   margin-left: 350px
     }
@@ -224,7 +223,7 @@ a{ float:none;
     }
 .aThree{
   margin-left: 550px
-    }
+    } */
 body{width:1100}
 }
 @media screen and (max-width:768px) {

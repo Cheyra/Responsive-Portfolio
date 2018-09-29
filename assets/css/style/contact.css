@@ -201,18 +201,21 @@ height:auto}
   .nav {display:none} 
 .aOne{
   margin-left: 0;
-    padding:10px
+    padding:10px;
+    float:left
     }
 .aTwo{
   margin-left: 0;
-    padding:10px
+    padding:10px;
+    float:left
     }
 .aThree{
   margin-left: 0;
     padding:10px
     }
  div.navSmall {display:block;
- text-align: center 
+ text-align: center ;
+     float:left
 
 }
  div.navSmall {display:block;

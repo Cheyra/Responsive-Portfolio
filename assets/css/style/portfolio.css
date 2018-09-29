@@ -204,8 +204,8 @@
 @media screen and (max-width:1100px){
   #top { background-color:#5ba!important;}
      #imageLinkOne {
-         left:20px}
-    #imageLinkTwo {left:500px}
+         left:-100px}
+    #imageLinkTwo {left:200px}
     #imageLinkThree {}
     #imageLinkFour {
         right:10px}

@@ -109,7 +109,7 @@
     
         #imageLinkTwo {Position: relative;
         width: 110px;
-        right:100px;
+        right:80px;
         top: 250px;
         padding: 20px;
         background-color: #5ba;
@@ -287,15 +287,20 @@ height:100%}
 }
     #imageLinkOne {
     right: 250px;
-    top: 10px}
+    top: 0px;
+    z-index: 0px}
     #imageLinkTwo {right: 250px;
-    top:30px}
+    top:0px;
+    z-index:0px}
     #imageLinkThree {right: 250px;
-    top: 50px;}
+    top: 0px;
+    z-index:0px}
     #imageLinkFour {right:250px;
-    top:70px}
+    top:0px;
+    z-index:0px}
     #imageLinkFive {right:250px;
-    top:90px}
+    top:0px;
+    z-index:0px;}
     
     
     

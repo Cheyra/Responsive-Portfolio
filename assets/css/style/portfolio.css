@@ -61,7 +61,7 @@
         .aOne{float: right;
         position:relative;
         top:35px;
-        left: 0px;
+        left: 100px;
             padding: 10px;
           
           }
@@ -69,15 +69,16 @@
         .aTwo{float: right;
         position:relative;
         top: 35px;
-        left:0px;
+        left:100px;
             padding:10px;
         }
         
         .aThree{float:right;
         position:relative;
         top:35px;
-        left: 0px;
+        left: 100px;
             padding: 10px;
+            z-index:200
         }
         
         hr{-webkit-text-stroke-color: lightgray}

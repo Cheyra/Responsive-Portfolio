@@ -204,13 +204,13 @@
 @media screen and (max-width:1100px){
   #top { background-color:#5ba!important;}
      #imageLinkOne {
-         right:10px}
-    #imageLinkTwo {right:100px}
-    #imageLinkThree {right:10px}
+         right:300px}
+    #imageLinkTwo {right:80px}
+    #imageLinkThree {}
     #imageLinkFour {
         right:10px}
     #imageLinkFive {
-        right:100px}
+        }
   #box {padding-top: 100px;
     padding-right: 0px;
     padding-left: 0px;

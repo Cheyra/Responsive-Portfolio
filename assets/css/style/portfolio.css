@@ -255,26 +255,33 @@ height:auto}
          text-align:center
 }
     
-    #imgTwo {clear:both; float:none !important;
+    #imgTwo {
+        clear:both; 
+        float:none !important;
          text-align:center
 }
     
-    #imgThree {float:none;
+    #imgThree { 
+        clear:both;
+        float:none !important;
          text-align:center
 }
     
-    #imgFour {float:none;
+    #imgFour {
+        clear:both;
+        float:none !important;
         text-align:center
 }
     
-    #imgFive {float:none;
+    #imgFive {clear: both;
+        float:none !important;
          text-align:center
 }
     
  
 @media screen and (max-width:640px){
   img {float:none; width: auto}
-  p {float:none;}
+  
 
 }
 

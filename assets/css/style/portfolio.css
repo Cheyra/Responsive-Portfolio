@@ -100,8 +100,8 @@
     
         #imageLinkOne {Position: relative;
         width: 210px;
-        left:25px;
-        top: 300px;
+       right: 250px;
+        top: 250px;
         padding: 20px;
         text-align: center;
         background-color: #5ba;
@@ -109,8 +109,8 @@
     
         #imageLinkTwo {Position: relative;
         width: 110px;
-        left:105px;
-        top: 300px;
+        right:100px;
+        top: 250px;
         padding: 20px;
         background-color: #5ba;
         text-align: center;
@@ -118,8 +118,8 @@
      
         #imageLinkThree {Position: relative;
         width: 210px;
-        left:105px;
-        top: 600px;
+        right: 500px;
+        top: 530px;
         text-align: center;
         padding: 20px;
         background-color: #5ba;
@@ -127,8 +127,8 @@
         clear:both}
         #imageLinkFour {Position: relative;
         width: 210px;
-        left:405px;
-        top: 600px;
+        right: 100px;
+        top: 530px;
         text-align: center;
         padding: 20px;
         background-color: #5ba;
@@ -136,8 +136,8 @@
      
         #imageLinkFive {Position: relative;
         width: 210px;
-        left:105px;
-        top: 900px;
+        right: 500px;
+        top: 800px;
         text-align: center;
         padding: 20px;
         clear:both;
@@ -156,8 +156,8 @@
         float:left;
         padding: 25px;
         position: relative;
-        left:80px;
-        top: 400px; 
+        left:0px;
+        top: 10px; 
         clear:both}
       
         #imgFour {width: 250px;
@@ -165,8 +165,8 @@
         float:left;
         padding: 25px;
         position: relative;
-        left:380px;
-      top:400px  }
+        left:80px;
+      top:10px  }
       
         #imgFive {width: 250px;
         height:250px;
@@ -174,8 +174,8 @@
         padding: 25px;
         clear:both;
         position: relative;
-        left:80px;
-        top:700px; 
+        left:0px;
+        top:10px; 
         overflow: auto}
     
         #bottom { margin: 0;

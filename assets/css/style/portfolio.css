@@ -227,7 +227,7 @@ h1{float: none !important;
 left:50px;
 padding-left:0px}
 
-.aOne{
+/* .aOne{
   top:-30px;
     left:10px
     }
@@ -238,7 +238,7 @@ padding-left:0px}
 .aThree{
   top:-30px
       left:10px
-    }
+    } */
 body{width:1100}
 }
 @media screen and (max-width:768px) {

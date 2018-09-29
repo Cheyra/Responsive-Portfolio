@@ -116,7 +116,7 @@
     
         #imageLinkTwo {Position: relative;
         width: 110px;
-        left:-60px;
+        left:-30px;
         top: 250px;
         padding: 0px;
         background-color: #5ba;
@@ -125,7 +125,7 @@
      
         #imageLinkThree {Position: relative;
         width: 210px;
-        left-: 500px;
+        left: -500px;
         top: 530px;
         text-align: center;
         padding: 0px;

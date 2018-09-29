@@ -20,7 +20,7 @@
         }
         .navSmall {
             position: relative;
-  top: 50px;
+  top: 100px;
   z-index: 100;
    display:none}
         h1{background-color:#5ba;
@@ -232,13 +232,16 @@ height:auto}
   
   .nav {display:none} 
 .aOne{
-  margin-left: 0
+  margin-left: 0;
+    padding:10px
     }
 .aTwo{
-  margin-left: 0
+  margin-left: 0;
+    padding:10px
     }
 .aThree{
-  margin-left: 0
+  margin-left: 0;
+    padding:10px
     }
  div.navSmall {display:block;
  text-align: center 

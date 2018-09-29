@@ -23,7 +23,7 @@ margin: 0px;
 }
 
 .navSmall {position: relative;
-  top: 35px;
+  top: 30px;
   z-index: 100;
    }
 
@@ -201,17 +201,17 @@ height:auto}
   
   .nav {display:none} 
 .aOne{
-  margin-left: 0;
+  margin-left: 10;
     padding:10px;
     float:left
     }
 .aTwo{
-  margin-left: 0;
+  margin-left: 125;
     padding:10px;
     float:left
     }
 .aThree{
-  margin-left: 0;
+  margin-left: 250;
     padding:10px
     }
  div.navSmall {display:inline-block;

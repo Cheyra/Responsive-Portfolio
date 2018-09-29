@@ -250,7 +250,8 @@ height:100%}
     }
  div.navSmall {display:block;
 /*      div.smallPort {display: block;} */
-     div.largePort {
+     
+     .largePort {
          display:none;}
 
 

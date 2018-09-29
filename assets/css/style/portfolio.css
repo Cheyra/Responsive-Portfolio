@@ -109,7 +109,7 @@
     
         #imageLinkTwo {Position: relative;
         width: 110px;
-        right:120px;
+        right:100px;
         top: 250px;
         padding: 20px;
         background-color: #5ba;
@@ -146,7 +146,7 @@
         color: white}
             
         #imgTwo {width: 250px;
-        height: 150px;
+        height: 250px;
         float:left;
         padding: 25px;
       position: relative;
@@ -285,6 +285,19 @@ height:100%}
         float:none !important;
          text-align:center
 }
+    #imageLinkOne {
+    right: 250px;
+    top: 10px}
+    #imageLinkTwo {right: 250px;
+    top:30px}
+    #imageLinkThree {right: 250px;
+    top: 50px;}
+    #imageLinkFour {right:250px;
+    top:70px}
+    #imageLinkFive {right:250px;
+    top:90px}
+    
+    
     
  
 @media screen and (max-width:640px){

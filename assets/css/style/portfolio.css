@@ -249,7 +249,7 @@ height:100%}
     float:left
     }
  div.navSmall {display:block;
-     div.smallPort {display: block;}
+/*      div.smallPort {display: block;} */
      div.largePort {
          display:none;}
 

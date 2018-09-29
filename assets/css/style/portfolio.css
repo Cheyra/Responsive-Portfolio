@@ -135,7 +135,7 @@
 
         #imageLinkFour {Position: relative;
         width: 210px;
-        left: -120px;
+        left: -130px;
         top: 510px;
         text-align: center;
         padding: 0px;
@@ -203,12 +203,12 @@
 
 @media screen and (max-width:1100px){
   #top { background-color:#5ba!important;}
-/*      #imageLinkOne {
-         left:-100px;
-    right:0px}
-    #imageLinkTwo {left:
-    right:0px}
-    #imageLinkThree {}
+      #imageLinkOne {
+         left:-300px;
+    }
+    #imageLinkTwo {left: -300px
+    }
+    /*#imageLinkThree {}
     #imageLinkFour {
         right:10px}
     #imageLinkFive {
@@ -227,16 +227,16 @@ h1{float: none !important;
 left:50px;
 padding-left:0px}
 
-/ .aOne{
-  top:-30px;
+ .aOne{
+  top:-50px;
   
     }
 .aTwo{
-  top:-30px;
+  top:-50px;
     
     }
 .aThree{
-  top:-30px
+  top:-50px
       
     } 
 body{width:1100}

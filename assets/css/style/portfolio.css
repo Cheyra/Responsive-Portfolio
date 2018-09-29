@@ -96,11 +96,11 @@
         float:left;
         padding: 25px;
       position: relative;
-    left:80px }
+    left:60px }
     
         #imageLinkOne {Position: relative;
         width: 210px;
-        left:105px;
+        left:55px;
         top: 300px;
         padding: 20px;
         text-align: center;
@@ -108,7 +108,7 @@
         color: white}
     
         #imageLinkTwo {Position: relative;
-        width: 210px;
+        width: 110px;
         left:405px;
         top: 300px;
         padding: 20px;
@@ -145,7 +145,7 @@
         color: white}
             
         #imgTwo {width: 250px;
-        height: 250px;
+        height: 150px;
         float:left;
         padding: 25px;
       position: relative;

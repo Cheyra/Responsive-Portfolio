@@ -244,7 +244,27 @@ height:auto}
  text-align: center 
 
 }
+    #imgOne {float:none;
+         text-align:center
 }
+    
+    #imgTwo {float:none;
+         text-align:center
+}
+    
+    #imgThree {float:none;
+         text-align:center
+}
+    
+    #imgFour {float:none;
+        text-align:center
+}
+    
+    #imgFive {float:none;
+         text-align:center
+}
+    
+ 
 @media screen and (max-width:640px){
   img {float:none; width: auto}
   p {float:none;}

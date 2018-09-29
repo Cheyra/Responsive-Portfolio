@@ -169,18 +169,18 @@ height:auto}
   
   .nav {display:none} 
  .aOne{
-  margin-left: 0px;
+  margin-left: 10px;
   padding:10px;
   float:left
   
     }
 .aTwo{
-  margin-left: 0px;
+  margin-left: 50px;
  padding:10px;
  float:left
     }
 .aThree{
-  margin-left: 0px;
+  margin-left: 100px;
    padding: 10px;
  float:10px
     }

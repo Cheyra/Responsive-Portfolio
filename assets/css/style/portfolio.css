@@ -300,20 +300,20 @@ top:40px
         float:none !important;
          text-align:center
 }
-    #imageLinkOne {
+    #imageLinkOne {float:none;
     
     top: -100px;
     z-index: 0px}
-    #imageLinkTwo {
+    #imageLinkTwo {float:none;
     top:-100px;
     z-index:0px}
-    #imageLinkThree {
+    #imageLinkThree {float:none;
     top: -100px;
     z-index:0px}
-    #imageLinkFour {
+    #imageLinkFour {float:none;
     top:20px;
     z-index:-100px}
-    #imageLinkFive {
+    #imageLinkFive {float:none;
     top:-100px;
     z-index:0px;}
     

@@ -107,7 +107,7 @@
         background-color: #5ba;
         color: white}
     
-        #imageLinkTwo {Position: absolute;
+        #imageLinkTwo {Position: relative;
         width: 210px;
         left:405px;
         top: 300px;
@@ -116,7 +116,7 @@
         text-align: center;
         color: white}
      
-        #imageLinkThree {Position: absolute;
+        #imageLinkThree {Position: relative;
         width: 210px;
         left:105px;
         top: 600px;
@@ -125,7 +125,7 @@
         background-color: #5ba;
         color: white;
         clear:both}
-        #imageLinkFour {Position: absolute;
+        #imageLinkFour {Position: relative;
         width: 210px;
         left:405px;
         top: 600px;
@@ -134,7 +134,7 @@
         background-color: #5ba;
         color: white}
      
-        #imageLinkFive {Position: absolute;
+        #imageLinkFive {Position: relative;
         width: 210px;
         left:105px;
         top: 900px;
@@ -148,14 +148,14 @@
         height: 250px;
         float:left;
         padding: 25px;
-      position: absolute;
+      position: relative;
     left:380px }
       
         #imgThree {width: 250px;
         height: 250px;
         float:left;
         padding: 25px;
-        position: absolute;
+        position: relative;
         left:80px;
         top: 400px; 
         clear:both}
@@ -164,7 +164,7 @@
         height: 250px;
         float:left;
         padding: 25px;
-        position: absolute;
+        position: relative;
         left:380px;
       top:400px  }
       
@@ -173,7 +173,7 @@
         float:left;
         padding: 25px;
         clear:both;
-        position: absolute;
+        position: relative;
         left:80px;
         top:700px; 
         overflow: auto}

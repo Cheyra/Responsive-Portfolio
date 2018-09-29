@@ -199,7 +199,22 @@ height:auto}
   bottom:0px}
   
   .nav {display:none} 
+.aOne{
+  margin-left: 0;
+    padding:10px
+    }
+.aTwo{
+  margin-left: 0;
+    padding:10px
+    }
+.aThree{
+  margin-left: 0;
+    padding:10px
+    }
+ div.navSmall {display:block;
+ text-align: center 
 
+}
  div.navSmall {display:block;
  text-align: center 
 

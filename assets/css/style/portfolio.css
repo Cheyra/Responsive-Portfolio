@@ -367,7 +367,7 @@ top:40px;
  
 @media screen and (max-width:640px){
   
-/*     #imageLinkOne {
+  #imageLinkOne {
     right: 250px;
     top: 0px;
     z-index: 0px}
@@ -384,7 +384,7 @@ top:40px;
     top:0px;
         left: -200px;
     z-index:0px;}
-     */
+     
   
 
 }

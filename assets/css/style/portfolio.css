@@ -314,12 +314,12 @@ top:40px;
     #imageLinkOne {float:none;
     
 /*      top: 50px;  */
-        left:-100px;
+        left:-150px;
     z-index: 0px;
         /*     display:inline-block; */}
     #imageLinkTwo {float:none;
 /*      top:50px;  */
-        left:-150px;
+        left:-200px;
 /*         display:inline-block; */
     z-index:0px}
     #imageLinkThree {float:none;
@@ -329,7 +329,7 @@ top:40px;
     z-index:0px}
     #imageLinkFour {float:none;
 /*      top:50px;  */
-        left:-150px;
+        left:-200px;
 /*         display:inline-block; */
     z-index:0px}
     #imageLinkFive {float:none;

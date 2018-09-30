@@ -259,15 +259,18 @@ height:100%;
   .nav {display:none} 
 .aOne{
  top:40px;
-    display:inline-block
+    display:block;
+    margin-left: auto
     }
 .aTwo{
  top:40px;
-    display:inline-block
+    display:block;
+    margin-left: auto
     }
 .aThree{
 top:40px;
-    display:inline-block
+    display:block;
+    margin-left: auto
     }
  div.navSmall {display:block;
 /*      div.smallPort {display: block;} */
@@ -279,35 +282,38 @@ top:40px;
 }
     #imgOne {clear:both;
         float:none !important;
-         display:inline-block;
+         display:block;
+    margin-left: auto
         
 }
     
     #imgTwo {
         clear:both; 
         float:none !important;
-        display:inline-block;
-         
+        display:block;
+    margin-left: auto
 }
     
     #imgThree { 
         clear:both;
         float:none !important;
-        display:inline-block;
+        display:block;
+    margin-left: auto
          
 }
     
     #imgFour {
         clear:both;
         float:none !important;
-        display:inline-block;
+       display:block;
+    margin-left: auto
        
 }
     
     #imgFive {clear: both;
         float:none !important;
-        display:inline-block;
-      
+        display:block;
+    margin-left: auto
 }
     #imageLinkOne {float:none;
     

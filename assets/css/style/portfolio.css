@@ -249,7 +249,7 @@ width:auto; margin: 0px, 2px, 2px, 10px;}
 #box {width:500px;
 top:200px;
 height:100%;
-    margin:0px}
+    text-align:center;}
   h1{width:100% !important;
   margin:0px;}
   #bottom {position: fixed;
@@ -275,37 +275,43 @@ top:40px
 }
     #imgOne {clear:both;
         float:none !important;
-         
+         display:inline-block;
+        
              left: 10px
 }
     
     #imgTwo {
         clear:both; 
         float:none !important;
+        display:inline-block;
          left:20px
 }
     
     #imgThree { 
         clear:both;
         float:none !important;
+        display:inline-block;
          left:20px
 }
     
     #imgFour {
         clear:both;
         float:none !important;
+        display:inline-block;
         left:20px
 }
     
     #imgFive {clear: both;
         float:none !important;
+        display:inline-block;
          left:20px
 }
     #imageLinkOne {float:none;
     
 /*      top: 50px;  */
         left:-200px;
-    z-index: 0px}
+    z-index: 0px;
+    display:inline-block;}
     #imageLinkTwo {float:none;
 /*      top:50px;  */
         left:-200px;

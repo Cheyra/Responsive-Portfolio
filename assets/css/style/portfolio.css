@@ -286,17 +286,17 @@ height:100%;
 .aOne{
  top:40px;
     display:block;
-   left:-800px
+   margin-left:auto
     }
 .aTwo{
  top:40px;
     display:block;
-    left:-600px
+  margin-left:auto
     }
 .aThree{
 top:40px;
     display:block;
-   left: -400px
+   margin-left: auto
     }
 /*     div.navSmall {display:block;} */
 

@@ -314,7 +314,7 @@ top:40px;
 /*      top: 50px;  */
 /*         left:-200px; */
     z-index: 0px;
-/*     display:inline-block;} */
+    display:inline-block;}
     #imageLinkTwo {float:none;
 /*      top:50px;  */
 /*         left:-200px; */
@@ -323,17 +323,17 @@ top:40px;
     #imageLinkThree {float:none;
 /*      top: 50px; */
 /*         left:-200px; */
-/*         display:inline-block; */
+        display:inline-block;
     z-index:0px}
     #imageLinkFour {float:none;
 /*      top:50px;  */
 /*         left:-200px; */
-/*         display:inline-block; */
+        display:inline-block;
     z-index:0px}
     #imageLinkFive {float:none;
 /*      top:100px;  */
 /*         left:-20px */
-/*         display:inline-block; */
+        display:inline-block;
     z-index:0px;}
     
     

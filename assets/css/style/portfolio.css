@@ -273,42 +273,41 @@ top:40px;
     margin-left: auto
     }
  div.navSmall {display:block;
-/*      div.smallPort {display: block;} */
-     
-     .largePort {
-         display:none;}
 
+     
+     
 
 }
     #imgOne {clear:both;
         float:none !important;
          
-        
+        display:inline-block;
 }
     
     #imgTwo {
         clear:both; 
         float:none !important;
-       
+       display:inline-block;
 }
     
     #imgThree { 
         clear:both;
         float:none !important;
         display:block;
-    margin-left: auto
+    margin-left: auto;
+        display:inline-block;
          
 }
     
     #imgFour {
         clear:both;
         float:none !important;
-      
+      display:inline-block;
 }
     
     #imgFive {clear: both;
         float:none !important;
-       
+       display:inline-block;
 }
     #imageLinkOne {float:none;
     

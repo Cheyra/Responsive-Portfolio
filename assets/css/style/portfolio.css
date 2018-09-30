@@ -317,17 +317,17 @@ top:40px;
         /*     display:inline-block; */}
     #imageLinkTwo {float:none;
 /*      top:50px;  */
-        left:-30px;
+        left:-50px;
 /*         display:inline-block; */
     z-index:0px}
     #imageLinkThree {float:none;
 /*      top: 50px; */
-        left:0px;
+        left:-300px;
 /*         display:inline-block; */
     z-index:0px}
     #imageLinkFour {float:none;
 /*      top:50px;  */
-        left:-30px;
+        left:-50px;
 /*         display:inline-block; */
     z-index:0px}
     #imageLinkFive {float:none;

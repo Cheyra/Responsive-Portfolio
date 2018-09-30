@@ -305,7 +305,7 @@ top:40px;
     #imgOne {
         clear:both;
         float:none !important;
-         left:10px;
+         left:20px;
         display:inline-block;
 }
     
@@ -373,16 +373,16 @@ top:40px;
 @media screen and (max-width:640px){
   
 /*   #imageLinkOne {
-    right: 250px;
+    right: 300px;
     top: 0px;
     z-index: 0px}
-    #imageLinkTwo {right: 150px;
+    #imageLinkTwo {right: 200px;
     top:20px;
     z-index:0px}
-    #imageLinkThree {right: 250px;
+    #imageLinkThree {right: 300px;
     top: 0px;
     z-index:0px}
-    #imageLinkFour {right:150px;
+    #imageLinkFour {right:200px;
     top:20px;
     z-index:0px}
     #imageLinkFive {right:250px;

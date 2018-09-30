@@ -282,16 +282,14 @@ top:40px;
 }
     #imgOne {clear:both;
         float:none !important;
-         display:block;
-    margin-left: auto
+         
         
 }
     
     #imgTwo {
         clear:both; 
         float:none !important;
-        display:block;
-    margin-left: auto
+       
 }
     
     #imgThree { 
@@ -305,15 +303,12 @@ top:40px;
     #imgFour {
         clear:both;
         float:none !important;
-       display:block;
-    margin-left: auto
-       
+      
 }
     
     #imgFive {clear: both;
         float:none !important;
-        display:block;
-    margin-left: auto
+       
 }
     #imageLinkOne {float:none;
     

@@ -288,17 +288,17 @@ height:100%;
 .aOne{
  top:40px;
     display:block;
-    margin-left: auto
+   left:-800px
     }
 .aTwo{
  top:40px;
     display:block;
-    margin-left: auto
+    left:-600px
     }
 .aThree{
 top:40px;
     display:block;
-    margin-left: auto
+   left: -400px
     }
 /*     div.navSmall {display:block;} */
 

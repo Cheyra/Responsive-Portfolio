@@ -338,25 +338,25 @@ top:40px;
     #imageLinkOne {
         top:0px;    
         float:none;
-        left:-100px;
+        left:-150px;
     z-index: 0px;
       }
     #imageLinkTwo {
         top:0px;
         float:none;
-        left:-150px;
+        left:-200px;
     z-index:0px}
   
          #imageLinkThree {
              top:0px;
              float:none;
-             left:-150px;
+             left:-200px;
     z-index:0px}
     #imageLinkFour {
         top:0px;
         float:none;
 
-        left:-150px;
+        left:-200px;
 
     z-index:0px}
     #imageLinkFive {

@@ -302,20 +302,20 @@ top:40px
 }
     #imageLinkOne {float:none;
     
-     top: 100px; 
-        left:-20px;
+     top: 50px; 
+        left:-200px;
     z-index: 0px}
     #imageLinkTwo {float:none;
-     top:100px; 
-        left:-20px;
+     top:50px; 
+        left:-200px;
     z-index:0px}
     #imageLinkThree {float:none;
-     top: 100px;
-        left:-20px;
+     top: 50px;
+        left:-200px;
     z-index:0px}
     #imageLinkFour {float:none;
-     top:100px; 
-        left:-20px;
+     top:50px; 
+        left:-200px;
     z-index:0px}
     #imageLinkFive {float:none;
      top:100px; 
